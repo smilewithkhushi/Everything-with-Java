@@ -1,5 +1,5 @@
+//THIS PROGRAM CALCULATES THE FACTORIAL OF A GIVEN NUMBER ENTERED BY THE USER USING LOOPS
 import java.io.*;
-
 public class Factorial{
 	
 	public static void main(String[] args)throws IOException{
