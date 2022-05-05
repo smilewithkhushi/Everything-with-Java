@@ -1,5 +1,6 @@
-import java.io.*;
+//2.	Write a basic Java program to create a Stack and perform PUSH and POP operations on it:
 
+import java.io.*;
 class STACK{
 	int list[], size;
 	int tos=-1;
