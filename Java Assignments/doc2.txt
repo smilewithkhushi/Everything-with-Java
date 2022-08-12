@@ -1,0 +1,5 @@
+Hi there
+this is doc1
+This is the Source File
+The Contents are copied to Doc 2
+Bye!
